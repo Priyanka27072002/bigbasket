@@ -1,0 +1,128 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+.det-img img{
+    width:100%;
+    height: 500px;
+}
+.det-detail{
+    border: 1px solid rgb(207, 200, 200);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+.det-button{
+    width:100%;
+    display: flex;
+}
+.det-add-btn{
+    width: 45%;
+    padding: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: #D30000;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+}
+.det-save-btn{
+    width: 45%;
+    padding: 15px;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: #ffff;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.det-package{
+    padding: 10px;
+}
+.det-inc-btn{
+    width: 50%;
+    display: flex;
+}
+.det{
+    width:50%;
+    margin-top: 5px;
+    background-color: #D30000;
+    color: #ffff;
+    border: none;
+    font-size: 30px;
+}
+.det-para{
+    padding: 15px;
+    margin-top: 5px;
+    border: 2px solid #D30000;
+}
+.det-fresho{
+    color: gray;
+}
+.det-info{
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(206, 199, 199);
+    border-radius: 5px;
+}
+.det-info li{
+    padding: 5px;
+}
+.det-information li{
+    margin-left: 35px;
+    padding: 5px;
+    font-size: 14px;
+}
+.det-information{
+    padding: 10px;
+}
+
+@media(min-width:320px){
+    .det-row{
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .det-col{
+        width:100%;
+    }
+    .detail-bill{
+        width:30%;
+        justify-content: space-between;
+        display: flex;
+    }
+}
+@media(min-width:690px){
+    .det-row{
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .det-col{
+        width:100%;
+    }
+    .detail-bill{
+        width:15%;
+        justify-content: space-between;
+        display: flex;
+    }
+}
+@media(min-width:1000px){
+    .det-row{
+        width:100%;
+        display: flex;
+    }
+    .det-col{
+        width:50%;
+    }
+    .detail-bill{
+        width:20%;
+        justify-content: space-between;
+        display: flex;
+    }
+}

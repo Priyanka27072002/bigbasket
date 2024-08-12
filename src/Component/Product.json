@@ -1,0 +1,1399 @@
+{
+    "bool":false,
+    "dynamic":[
+        
+        {
+            "id":1,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000142_17-fresho-ladies-finger.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Ladies' Fingers (Loose)",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                        "kg":"1 kg",
+                        "proprice":60
+                    },
+                    {
+                        "kg":"250 g",
+                        "proprice":14
+                    },
+                    {
+                        "kg":"500 g",
+                        "proprice":18
+                    }
+                    ],
+            "iscart":false,
+            "issave":false,
+            "count":1,
+            "isselect":false,
+            "detail":[
+                {
+                    "head":"Fresho Ladies' Fingers (Loose)",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Ladies' finger is a green vegetable with a tip at the end and a lighter green head, which is inedible and to be thrown away. It tastes mild and slightly grassy.",
+                    "abo_detail2":"Ladies' finger or okra is a popular vegetable that is nutritious and has a high fibre content. It contains both soluble as well as insoluble fibres and is used in various recipes. The best way to select ladies' finger is to look for smaller pods as they are tender. These also taste better. The brighter coloured ones and those that are unblemished, and firm are the best quality lady's finger. The ladies' fingers are sourced directly from the farmers and brought to the shelves carefully, ensuring that the vegetable maintains its freshness and nutrients.",
+                    "benifit_head":"Benefits",
+                    "bendetail1":"Ladies' finger aids in digestion as it contains prebiotic fiber and controls obesity and cholesterol.",
+                    "ben_detail2":"It is loaded with Vitamin A, B, C, and traces of Zinc & Calcium",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Refrigerate them and do not wash them until they are ready to use.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code:  10000142",
+                    "other_detail2":"Sourced & Marketed by:  INNOVATIVE RETAIL CONCEPTS PRIVATE LIMITED No.18, 2nd & 3rd Floor, 80 Feet Main Road, Koramangala 4th Block,"
+                }
+            ]
+            
+        },
+        {
+            "id":2,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000067_23-fresho-capsicum-green.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "dis":"none",
+            "kgboo":false,
+            "proname":"Capsicum - Green (Loose)",
+            "amount":"",
+            "rate":[{
+                "kg":"1 kg",
+                "proprice":44
+            },
+            {
+                "kg":"250 g",
+                "proprice":19.71
+            },
+            {
+                "kg":"500 g",
+                "proprice":24.5
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Capsicum - Green (Loose)",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Leaving a moderately pungent taste on the tongue, Green capsicums, also known as green peppers are bell shaped, medium-sized fruit pods.",
+                    "abo_detail2":"They have thick and shiny skin with a fleshy texture inside.",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Green capsicums have powerful antioxidants and anti-inflammatory properties.",
+                    "ben_detail2":"Rich in Vitamin A, B complex, C and phytonutrients. Relieves pain of bone disorders and has the capacity to relax the repirartory passage.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Store them in a cool, dry place away from direct sunlight. Keep capsicums dry as moisture makes them rot faster. Refrigerate the peppers unwashed, in a plastic bag and consume within a week. Resort to refrigeration only when they cannot be consumed immediately.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 100000670",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000074_19-fresho-cauliflower.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Cauliflower",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                "kg":"1 pc",
+                "proprice":23
+            },
+            {
+                "kg":"250 g",
+                "proprice":14
+            },
+            {
+                "kg":"500 g",
+                "proprice":18
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Cauliflower",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Cauliflower is made up of tightly bound clusters of soft, crumbly, sweet cauliflower florets that form a dense head.",
+                    "abo_detail2":"Resembling a classic tree, the florets are attached to a central edible white trunk which is firm and tender.",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"One serving of cauliflower contains 77 percent of daily recommended value of vitamin C.",
+                    "ben_detail2":"Cauliflowers are rich in B complex vitamins, potassium and manganese.They protect from the risk of heart diseases and brain disorders",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Refrigerate in a loosely sealed plastic bag. It keeps well for upto 7 days. Do not store florets for more than 5 days.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 100000740",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar, Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000118_18-fresho-ginger.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Ginger (Loose)",
+            "dis":"none",
+            "amount":"",
+            "kgboo":false,
+            "rate":[{
+                "kg":"500 g",
+                "proprice":87
+            },
+            {
+                "kg":"100 g",
+                "proprice":18.25
+            },
+            {
+                "kg":"250 g",
+                "proprice":42
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Ginger (Loose)",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Firm and fibrous ginger roots are stretched with multiple fingers that have light to dark tan skin and rings on it and is aromatic, spicy and pungent. The flavour gets intensified when the ginger is dried and lessens when cooked.",
+                    "abo_detail2":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/232/chinese-white-sauce/",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Ginger root treats morning sickness. They reduce muscle pain, soreness and eases various stomach problems.",
+                    "ben_detail2":"Drinking ginger juice is a great medicine to relieve sore throats.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Refrigerate it in a plastic bag. When ginger is kept in freezer, they are easier to peel and grate.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 10000118",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+                }
+            ]
+        },{
+            "id":5,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000148_32-fresho-onion.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Onion",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                "kg":"1 kg",
+                "proprice":70
+            },
+            {
+                "kg":"500 g",
+                "proprice":57
+            },
+            {
+                "kg":"250 g",
+                "proprice":36.43
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Onion",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Onion is a vegetable which is almost like a staple in Indian food. This is also known to be one of the essential ingredients of raw salads. They come in different colours like white, red or yellow and are quite in demand in cold salads and hot soups.",
+                    "abo_detail2":"You can dice, slice or cut it in rings and put it in burgers and sandwiches. Onions emit a sharp flavour and fragrance once they are fried; it is due to the sulphur compound in the vegetable.Onions are known to be rich in biotin.",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Onions are known to have antiseptic, antimicrobial and antibiotic properties which help you to get rid of infections.",
+                    "ben_detail2":"If a piece of onion is inhaled, it can slow down or stop nose bleeding.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Store in a cool dry place, need not refridgerate.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 10000148",
+                    "other_detail2":"Country of origin: India"
+                }
+            ]
+        },{
+            "id":6,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000203_16-fresho-tomato-local.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Tomato - Local",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                "kg":"1 kg",
+                "proprice":41
+            },
+            {
+                "kg":"250 g",
+                "proprice":15.33
+            },
+            {
+                "kg":"500 g",
+                "proprice":22
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Tomato - Local",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Local tomatoes are partly sour and partly sweet and contain many seeds inside which are edible. The red colour present in tomatoes is due to lycopene, an anti-oxidant.",
+                    "abo_detail2":"Do not forget to check out our delicious recipe- https://www.bigbasket.com/cookbook/recipes/935/tomato-chutney-for-dosa-and-idly/",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Tomatoes contain Vitamin C,K. lycopene, an antioxidant that reduces the risk of cancer and heart-diseases.",
+                    "ben_detail2":" They protect the eyes from light induced damage.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Store tomatoes stem side down in a single layer, at room temperature, away from the sunlight.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 10000203",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+                }
+            ]
+        },{
+            "id":7,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/10000066_25-fresho-cabbage.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Cabbage",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                "kg":"1 pc (approx. 500 g to 800 g)",
+                "proprice":15.50
+            },
+            {
+                "kg":"2 pc",
+                "proprice":20.50
+            },
+            {
+                "kg":"500 g",
+                "proprice":10
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Cabbage",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"With a texture of crispness and juiciness the moment you take the first bite, cabbages are sweet and grassy flavoured with dense and smooth leafy layers.",
+                    "abo_detail2":"Do not forget to check our delicious recipe - https://www.bigbasket.com/cookbook/recipes/710/cabbage-chowder/",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Cabbage improves brain health and vision. Best for people who want to lose weight in a healthy way.",
+                    "ben_detail2":"It detoxifies the body and contains glutamine that reduces effects of inflammation, allergies, joint pain, irritation, fever.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"If you absolutely cannot immediately finish the remaining cabbage, wrap it tightly in plastic wrap and store it in the refrigerator for up to two days.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code: 100000660",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Private Limited, Fairway Business Park, EGL, Challaghatta, Domlur, Bengaluru, 560071"
+                }
+            ]
+        },
+        {
+            "id":8,
+            "img":"https://www.bigbasket.com/media/uploads/p/l/40089742_2-fresho-beans-haricot.jpg?tr=w-1080,q=80",
+            "fresho":"Fresho",
+            "proname":"Beans - Haricot (Loose)",
+            "dis":"none",
+            "kgboo":false,
+            "amount":"",
+            "rate":[{
+                "kg":"1 kg",
+                "proprice":74
+                
+            },
+            {
+                "kg":"250 g",
+                "proprice":19.5
+            },
+            {
+                "kg":"500 g",
+                "proprice":47.50
+            }
+            ],
+            "iscart":false,
+            "issave":false,
+            "isselect":false,
+            "count":1,
+            "detail":[
+                {
+                    "head":"Fresho Beans - Haricot (Loose)",
+                    "abo_head":"About the Product",
+                    "abo_detail1":"Haricot beans are small, oval, plump and creamy-white with a mild flavour and a smooth, buttery texture.",
+                    "abo_detail2":"haricot vert is the same as green beans.",
+                    "benifit_head":"Benefits",
+                    "ben_detail1":"Haricot beans are great for metabolism and regulation of the sugar level of blood.",
+                    "ben_detail2":" They support the adrenal regulation function and provide an excellent source of protein and fibre.",
+                    "store_head":"Storage and Uses",
+                    "store_detail":"Store unwashed fresh beans in a perforated plastic bag and refrigerate. Whole beans stored this way will stay for a week.",
+                    "other_head":"Other Product Info",
+                    "other_detail1":"EAN Code:  40089742",
+                    "other_detail2":"Sourced & Marketed by: Supermarket Grocery Supplies Pvt. Ltd, No. 7, Service Road, Off 100 Feet Road Indiranagar Landmark: Above HDFC Bank Bangalore,Karnataka 560071"
+                }
+            ]
+        }
+    ],
+    "static":[{
+                "furit":[
+                    {
+                        "id":1,
+                        "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_fresh-fruits_480_250923.jpg?tr=w-1920,q=80",
+                        "type":"fruit",
+                        "brand":["Fresho"],
+                        "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                        "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                        "card":[
+                                        {
+                                            "id":1,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/30009286_8-fresho-blueberry.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Blueberry",
+                                            "card_kg":"120 g",
+                                            "card_discount":2,
+                                            "iscart":false,
+                                            "issave":false,
+                                            "isselect":false,
+                                            "count":1,
+                                            "card_price":289
+                                        },
+                                        {
+                                            "id":2,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000267_24-fresho-orange-nagpur-regular.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Orange - Nagpur, Regular (Loose)",
+                                            "card_kg":"500 g",
+                                            "card_discount":15,
+                                            "iscart":false,
+                                            "issave":false,
+                                            "isselect":false,
+                                            "count":1,
+                                            "card_price":37.5
+                                        },
+                                        {
+                                            "id":3,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/40120006_6-fresho-pomegranate-small.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Pomegranate - Regular (Loose)",
+                                            "card_kg":"1 kg (5-6 pcs per kg)",
+                                            "card_discount":5,
+                                            "card_price":242.36
+                                        },
+                                        {
+                                            "id":4,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000005_27-fresho-apple-royal-gala-economy.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Apple - Royal Gala Economy",
+                                            "card_kg":"4 pcs Approx.450-500 g",
+                                            "card_discount":8,
+                                            "iscart":false,
+                                            "issave":false,
+                                            "isselect":false,
+                                            "count":1,
+                                            "card_price":133.59
+                                        },
+                                        {
+                                            "id":5,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000207_24-fresho-watermelon-small.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Watermelon - Small",
+                                            "card_kg":"1pc-1.7-2.5 kg",
+                                            "card_discount":9,
+                                            "iscart":false,
+                                            "issave":false,
+                                            "isselect":false,
+                                            "count":1,
+                                            "card_price":65.7
+                                        },
+                                        {
+                                            "id":6,
+                                            "card_img":"https://www.bigbasket.com/media/uploads/p/m/20000737_11-fresho-banana-raw-green.jpg?tr=w-1920,q=80",
+                                            "card_fresho":"Fresho",
+                                            "card_name":"Banana - Raw Green (Loose)",
+                                            "card_kg":"1pc",
+                                            "card_discount":27,
+                                            "iscart":false,
+                                            "issave":false,
+                                            "isselect":false,
+                                            "count":1,
+                                            "card_price":16.06
+                                        }
+
+                        ]
+                    },
+                    {
+                        "id":2,
+                        "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_fresh-vegetables_480_250923.jpg?tr=w-1920,q=80",
+                        "type":"vegetable",
+                        "brand":["Fresho"],
+                        "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                        "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                        "card":[
+                                    {
+                                        "id":1,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40022639_5-fresho-cucumber-organically-grown.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Cucumber - Organically Grown (Loose)",
+                                        "card_kg":"500 g",
+                                        "card_discount":15,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":26.28
+                                    },
+                                    {
+                                        "id":2,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000204_16-fresho-tomato-local.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Tomato - Local",
+                                        "card_kg":"500 g",
+                                        "card_discount":2,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":20
+                                    },
+                                    {
+                                        "id":3,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000159_27-fresho-potato.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Potato",
+                                        "card_kg":"1kg",
+                                        "card_discount":15,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":39
+                                    },
+                                    {
+                                        "id":4,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000104_17-fresho-curry-leaves.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Curry Leaves",
+                                        "card_kg":"100 g",
+                                        "card_discount":11,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":11.68
+                                    },
+                                    {
+                                        "id":5,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000273_16-fresho-mushrooms-button.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Mushrooms - Button",
+                                        "card_kg":"1pack Approx.180g-200g",
+                                        "card_discount":3,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":51.5
+                                    },
+                                    {
+                                        "id":6,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000193_12-fresho-sweet-potato.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Sweet Potato (Loose)",
+                                        "card_kg":"1 kg",
+                                        "card_discount":7,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":81.3
+                                    }
+                        ]
+                    },
+                    {
+                        "id":3,
+                        "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_cuts-&-exotics_480_250923.jpg?tr=w-1920,q=80",
+                        "type":"cuts",
+                        "brand":["Fresho"],
+                        "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                        "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                        "card":[
+                                    {
+                                        "id":1,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40110306_1-fresho-pea-eggplant-sundaikai.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Pea Eggplant / Sundaikai (Loose)",
+                                        "card_kg":"100 g",
+                                        "card_discount":18,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":11.68  
+                                    },
+                                    {
+                                        "id":2,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40149660_3-fresho-capsicum-red.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Capsicum - Red (Loose)",
+                                        "card_kg":"2 pc",
+                                        "card_discount":25,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":55.48
+                                    },{
+                                        "id":3,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000085_15-fresho-chinese-cabbage.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Chinese Cabbage",
+                                        "card_kg":"500 g",
+                                        "card_discount":35,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":36.5
+                                    },{
+                                        "id":4,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40005815_6-fresho-banana-blossom-peeled.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Banana Blossom - Peeled",
+                                        "card_kg":"1pc",
+                                        "card_discount":20,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":40.15
+                                    },{
+                                        "id":5,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000693_11-fresho-sweet-corn-pellets.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Sweet Corn - Pellets",
+                                        "card_kg":"250 g",
+                                        "card_discount":7,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":66.43
+                                    },
+                                    {
+                                        "id":6,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40211818_1-fresho-zucchini-yellow.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Zucchini - Yellow",
+                                        "card_kg":"2 pcs Approx(300-400g)",
+                                        "card_discount":10,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":67.16 
+                                    }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/41a0810e-1fc3-46e4-9d2c-7d9e79e0aa29/hp_f&v_m_herbs-&-seasoning_480_250923.jpg?tr=w-1920,q=80",
+                        "type":"herb",
+                        "brand":["Fresho"],
+                        "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                        "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                        "card":[
+                                    {
+                                        "id":1,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000118_18-fresho-ginger.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Ginger (Loose)",
+                                        "card_kg":"250 g",
+                                        "card_discount":5,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":33.58
+                                    },
+                                    {
+                                        "id":2,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000097_19-fresho-coriander-leaves.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Coriander Leaves",
+                                        "card_kg":"100 g",
+                                        "card_discount":8,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":12.41
+                                    },
+                                    {
+                                        "id":3,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000115_15-fresho-garlic.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Garlic (Loose)",
+                                        "card_kg":"250 g",
+                                        "card_discount":15,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":65
+                                    },
+                                    {
+                                        "id":4,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000337_13-fresho-chilli-bajji-mild.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Chilli - Bajji, Mild (Loose)",
+                                        "card_kg":"1kg",
+                                        "card_discount":20,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":75.19
+                                    },
+                                    {
+                                        "id":5,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/40300474_1-on1y-black-pepper-powder-no-added-colours-preservatives.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Black Pepper Powder - No Added Colours &",
+                                        "card_kg":"50 g",
+                                        "card_discount":30,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":139
+                                    },
+                                    {
+                                        "id":6,
+                                        "card_img":"https://www.bigbasket.com/media/uploads/p/m/10000129_17-fresho-lemon-grass.jpg?tr=w-1920,q=80",
+                                        "card_fresho":"Fresho",
+                                        "card_name":"Lemon Grass",
+                                        "card_kg":"100 g",
+                                        "card_discount":6,
+                                        "iscart":false,
+                                        "issave":false,
+                                        "isselect":false,
+                                        "count":1,
+                                        "card_price":16.06
+                                    }
+                        ]
+                    }
+                ],
+                "bever":[
+                            {
+                                "id":1,
+                                "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/e4a9856b-dc3f-4927-a5a1-8edfe8d7dc38/hp_bev_m_health-drinks-&-supplements_480_250923.jpg?tr=w-1920,q=80",
+                                "type":"healthdrink",
+                                "brand":["Cadbury","Boost","Complan","Horlicks"],
+                                "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500","More than Rs 500"],
+                        "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                "card":[
+                                            {
+                                                "id":1,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/40019371_29-bournvita-chocolate-health-drink-bournvita.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Cadbury",
+                                                "card_name":"Bournvita Chocolate Health Drink",
+                                                "card_kg":"750 g pouch",
+                                                "card_discount":3,
+                                                "iscart":false,
+                                                "issave":false,
+                                                "isselect":false,
+                                                "count":1,
+                                                "card_price":36.7
+                                            },
+                                            {
+                                                "id":2,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/253502_8-boost-nutrition-drink-health-energy-sports.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Boost",
+                                                "card_name":"Chocolate Energy & Sports Nutrition Drink Refill",
+                                                "card_kg":"750 g Carton",
+                                                "card_discount":5,
+                                                "iscart":false,
+                                                "issave":false,
+                                                "isselect":false,
+                                                "count":1,
+                                                "card_price":164
+                                            },
+                                            {
+                                                "id":3,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/269603_10-complan-nutrition-health-drink-improves-concentration-memory-royale-chocolate-flavour.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Complan",
+                                                "card_name":"Royale Chocolate Nutritious Health Drink - Vitamin C & A",
+                                                "card_kg":"1kg-Carton",
+                                                "card_discount":15,
+                                                "iscart":false,
+                                                "issave":false,
+                                                "isselect":false,
+                                                "count":1,
+                                                "card_price":491.18
+                                            },
+                                            {
+                                                "id":4,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/40205328_10-horlicks-junior-health-drinkvanilla-specialized-nutrition-for-kids.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Horlicks",
+                                                "card_name":"Health & Nutrition Drink - Vanilla, Support Physical",
+                                                "card_kg":"400g pouch",
+                                                "card_discount":20,
+                                                "iscart":false,
+                                                "issave":false,
+                                                "isselect":false,
+                                                "count":1,
+                                                "card_price":235
+                                            },
+                                            {
+                                                "id":5,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/20006249_4-boost-drink-powder-sports-stars-first-choice.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Boost",
+                                                "card_name":"Drink Powder - Sports Stars First Choice",
+                                                "card_kg":"15g",
+                                                "card_discount":8,
+                                                "card_price":5
+                                            },
+                                            {
+                                                "id":6,
+                                                "card_img":"https://www.bigbasket.com/media/uploads/p/m/40222427_2-chocolate-horlicks-health-nutrition-drink-chocolate.jpg?tr=w-1920,q=80",
+                                                "card_fresho":"Horlicks",
+                                                "card_name":"Health & Nutrition Drink - Chocolate",
+                                                "card_kg":"400g pouch",
+                                                "card_discount":30,
+                                                "iscart":false,
+                                                "issave":false,
+                                                "isselect":false,
+                                                "count":1,
+                                                "card_price":840
+                                            }
+
+                                    ]
+                                 },
+                                 {
+                                    "id":2,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/e4a9856b-dc3f-4927-a5a1-8edfe8d7dc38/hp_bev_m_tea-&-coffee_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"tea",
+                                    "brand":["Tata Tea","3 Roses","Emperia","AVT","Taj Mahal"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/281594_7-3-roses-natural-care-tea.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"3 Roses",
+                                                    "card_name":"Natural Care Tea",
+                                                    "card_kg":"250 g",
+                                                    "card_discount":5,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":240
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40270718_1-emperia-green-tea-sampler-with-plain-tulsi-lemon-honey.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Emperia",
+                                                    "card_name":"Green Tea - With Plain, Tulsi, Lemon & Honey",
+                                                    "card_kg":"6.7 g(5 Tea Bags x1.34g Each)",
+                                                    "card_discount":3,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":11.43
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/20004597_11-tata-tea-gemini-tea.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Tata Tea",
+                                                    "card_name":"Strong Assam Tea - Black Tea, Rich Aroma",
+                                                    "card_kg":"100 g",
+                                                    "card_discount":8,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":33.82
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/263613_4-tata-tea-agni-leaf-tea.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Tata Tea",
+                                                    "card_name":"Special Blend Tea - 10% Extra Strong Leaves",
+                                                    "card_kg":"250 g- pack",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":55
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/60000304_3-avt-tea-premium.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"AVT",
+                                                    "card_name":"Premium CTC Dust Tea",
+                                                    "card_kg":"500 g",
+                                                    "card_discount":20,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":170
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/137936_11-taj-mahal-tea.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Taj Mahal",
+                                                    "card_name":"Tea",
+                                                    "card_kg":"1 kg Carton",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":705
+                                                }
+                                    ]
+                                },
+                                 {
+                                    "id":3,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/e4a9856b-dc3f-4927-a5a1-8edfe8d7dc38/hp_bev_m_flavoured-&-soya-milk_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"milk",
+                                    "brand":["Cavins","Amul","Hersheys","Sunfeast"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/30007714_8-cavins-milkshake-chocolate.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cavins",
+                                                    "card_name":"Chocolate Milkshake - With Zinc, Vitamin A & D Added",
+                                                    "card_kg":"200 ml-Tetra pack",
+                                                    "card_discount":8,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":33.6
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40181675_5-amul-tru-apple.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Amul",
+                                                    "card_name":"Tru Apple",
+                                                    "card_kg":"150 ml-Tetra Pak",
+                                                    "card_discount":5,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":10
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40167931_3-cavins-gulkand-milkshake.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cavins",
+                                                    "card_name":"Gulkand Milkshake - With Zinc, Vitamin A & D Added",
+                                                    "card_kg":"180 ml",
+                                                    "card_discount":2,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":52.8
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/1202881_6-hersheys-milk-shake-chocolate.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Hersheys",
+                                                    "card_name":"Chocolate Flavor Milkshake",
+                                                    "card_kg":"3X180 ml-Multipack",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":100.32
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/1223943_1-hersheys-milkshake-chocolate-2x180-ml-cookies-creme-2x180-ml-strawberry-2x180-ml.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Hersheys",
+                                                    "card_name":"Milkshake - Chocolate 2x180 ml + Cookies",
+                                                    "card_kg":"Combo-3 items",
+                                                    "card_discount":11,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":200.64
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/1213744_1-sunfeast-chocolate-shake-with-real-belgian-chocolate.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Sunfeast",
+                                                    "card_name":"Dark Fantasy Belgian Chocolate Shake",
+                                                    "card_kg":"3X180 ml-Multipack",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":87.05
+                                                }
+                                    ]
+                                },
+                                {
+                                    "id":4,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/e4a9856b-dc3f-4927-a5a1-8edfe8d7dc38/hp_bev_m_soft-drinks-&-more_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"drinks",
+                                    "brand":["Coca Cola","Frooti","Maaza","RED BULL","Real"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/251023_11-coca-cola-soft-drink-original-taste.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Coca Cola",
+                                                    "card_name":"Soft Drink",
+                                                    "card_kg":"750 ml-petbottle",
+                                                    "card_discount":5,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":32
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/274035_8-frooti-drink-fresh-n-juicy-mango.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Frooti",
+                                                    "card_name":"Drink - Fresh 'N' Juicy Mango",
+                                                    "card_kg":"125 ml-Tetra",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":10
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/265695_19-maaza-mango-drink.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Maaza",
+                                                    "card_name":"Mango Drink - Original Flavour, Refreshing",
+                                                    "card_kg":"1.2 l-pet Bottle",
+                                                    "card_discount":6,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":69
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/100012278_12-red-bull-energy-drink.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"RED BULL",
+                                                    "card_name":"Energy Drink",
+                                                    "card_kg":"250 ml Can",
+                                                    "card_discount":20,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":125
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/100012281_10-red-bull-energy-drink.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"RED BULL",
+                                                    "card_name":"Energy Drink",
+                                                    "card_kg":"250 ml(Pack of 4)",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":480
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40170924_7-real-fruit-power-juice-masala-mixed-fruit.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Real",
+                                                    "card_name":"Fruit Power Juice - Masala Mixed Fruit",
+                                                    "card_kg":"1 l",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":70
+                                                }
+                                    ]
+                                }
+                            ],
+                    "snack":[
+                                {
+                                    "id":1,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/09ece9f7-7ac9-4d1e-afbb-f8ac572add38/hp_sbf_m_biscuits-&-namkeens_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"chaisnack",
+                                    "brand":["McCain","Aashirvaad","Amul","Tasties","sumeru"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40016990_3-mccain-french-fries.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"McCain",
+                                                    "card_name":"French - Fries",
+                                                    "card_kg":"1.25 kg",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":280
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40282384_2-aashirvaad-malabar-paratha-ready-to-cook-frozen-no-added-preservatives.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Aashirvaad",
+                                                    "card_name":"Malabar Paratha - Ready To Cook, No Added",
+                                                    "card_kg":"400g (5pcs)",
+                                                    "card_discount":8,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":135
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40119532_4-amul-happy-treats-french-fries.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Amul",
+                                                    "card_name":"Happy Treats French Fries 6 Mm - Ready To Cook",
+                                                    "card_kg":"2.5 kg",
+                                                    "card_discount":10,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":380
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40115858_11-tasties-namkeen-moong-dal.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Tasties",
+                                                    "card_name":"Moong Dal",
+                                                    "card_kg":"30g",
+                                                    "card_discount":2,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":13
+                                                },{
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/282598_5-mccain-smiles-crispy-happy-potato.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"McCain",
+                                                    "card_name":"Smiles - Crispy Happy Potato",
+                                                    "card_kg":"175 g pouch",
+                                                    "card_discount":20,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":280
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40004575_8-sumeru-masala-french-fries-piri-piri.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"sumeru",
+                                                    "card_name":"Masala French Fries - Piri Piri",
+                                                    "card_kg":"200 g",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":79
+                                                }        
+                                    ]
+                                },
+                                {
+                                    "id":2,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/09ece9f7-7ac9-4d1e-afbb-f8ac572add38/hp_sbf_m_breakfast-cereals_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"moringsnack",
+                                    "brand":["iD Fresho","Kelloggs","Fresho","MuscleBlaze"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500","More than Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/271205_16-id-fresho-idly-dosa-batter.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"iD Fresho",
+                                                    "card_name":"Idly & Dosa Batter",
+                                                    "card_kg":"1kg",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":84.15
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40015688_24-kelloggs-corn-flakes.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Kelloggs",
+                                                    "card_name":"Corn Flakes - Original, High In Iron & B Group Vitamins",
+                                                    "card_kg":"900 g",
+                                                    "card_discount":20,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":320
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40017896_7-kelloggs-chocos.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Kelloggs",
+                                                    "card_name":"Chocos - With Protein & Fibre Of 1 Roti In Each Bowl",
+                                                    "card_kg":"23 g",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":10
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40283412_1-fresho-tender-coconut-water-with-pulpy-malai.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Fresho",
+                                                    "card_name":"Tender Coconut Water With Pulpy Malai",
+                                                    "card_kg":"200 ml",
+                                                    "card_discount":5,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":35
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40114334_6-kelloggs-chocos-fills-double-chocolaty.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Kelloggs",
+                                                    "card_name":"Chocos Fills",
+                                                    "card_kg":"250 g",
+                                                    "card_discount":7,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":185
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40285036_4-muscleblaze-high-protein-oats-with-probiotics-fibre-rich-improves-gut-health-dark-chocolate-flavour.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"MuscleBlaze",
+                                                    "card_name":"17 g High Protein Oats - With Probiotics, Dark",
+                                                    "card_kg":"1 kg",
+                                                    "card_discount":3,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":649
+                                                }
+                                            
+                                    ]
+                                },
+                                {
+                                    "id":3,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/09ece9f7-7ac9-4d1e-afbb-f8ac572add38/hp_sbf_m_pasta-sauces-&-more_480_270723.jpg?tr=w-1920,q=80",
+                                    "type":"pasta",
+                                    "brand":["Aashirvaad","Nissin","Sunfeast","MAGGI","Keya","Barilla"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40225057_4-aashirvaad-vermicelli-made-from-high-quality-wheat-non-sticky.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Aashirvaad",
+                                                    "card_name":"Vermicelli - Made From Wheat",
+                                                    "card_kg":"150 g",
+                                                    "card_discount":11,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":16.15
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40118708_2-nissin-cup-noodles-seafood.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Nissin",
+                                                    "card_name":"Rich Seafood Curry Instant Cup Noodles",
+                                                    "card_kg":"70 g",
+                                                    "card_discount":2,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":46
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/1202657_6-sunfeast-yippee-mood-masala-noodles-family-pack.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Sunfeast",
+                                                    "card_name":"YiPPee! Mood Masala Instant Noodles",
+                                                    "card_kg":"2x260 g-(pack of 2)",
+                                                    "card_discount":8,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":91.2
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40125873_8-maggi-2-minute-noodles-masala.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"MAGGI",
+                                                    "card_name":"2-Min Masala Instant Noodles",
+                                                    "card_kg":"840 g-(12 pack x 70g)",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":158
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40268405_1-keya-spirali-fusilli-wheat-semolina-pasta-rich-in-protein-cholesterol-free.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Keya",
+                                                    "card_name":"Spirali Fusilli Wheat Semolina Pasta - Rich In",
+                                                    "card_kg":"1kg pouch",
+                                                    "card_discount":20,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":270
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/101065_6-barilla-basilico-pasta-pizza-sauce-with-no-added-preservatives-gluten-free.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Barilla",
+                                                    "card_name":"Basilico Pasta & Pizza Sauce - With No Added",
+                                                    "card_kg":"400 g jar",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":499
+                                                }
+                                    ]
+                                },
+                                {
+                                    "id":4,
+                                    "sta_img":"https://www.bigbasket.com/media/customPage/b01eee88-e6bc-410e-993c-dedd012cf04b/91e53046-98e0-4c5b-ae53-7d073e5210e1/09ece9f7-7ac9-4d1e-afbb-f8ac572add38/hp_sbf_m_sweet-cravings_480_250923.jpg?tr=w-1920,q=80",
+                                    "type":"sweets",
+                                    "brand":["Lavian Exotique","Sundrop","Cadbury"],
+                                    "price":["Less than Rs 20","Rs 21 to Rs 50 ","Rs 51 to Rs 100","Rs 101 to Rs 200","Rs 201 to Rs 500"],
+                                    "discount":["Upto 5%","5% - 10%","10% - 25%","More than 25%"],
+                                    "card":[
+                                                {
+                                                    "id":1,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40310090_2-lavian-exotique-creme-cups-choco-flavoured-cupcake-with-delicious-creamy-center.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Lavian Exotique",
+                                                    "card_name":"Crème Cups - Choco Flavoured Cupcake",
+                                                    "card_kg":"20 g",
+                                                    "card_discount":3,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":15 
+                                                },
+                                                {
+                                                    "id":2,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40304855_1-sundrop-duo-cruncheez-multigrain-centre-50-lower-sugar.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Sundrop",
+                                                    "card_name":"Duo Cruncheez - Multigrain Centre, 50% Lower Sugar",
+                                                    "card_kg":"70 g-pouch",
+                                                    "card_discount":8,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":30
+                                                },
+                                                {
+                                                    "id":3,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/40019375_17-cadbury-perk-chocolate-home-treats.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cadbury",
+                                                    "card_name":"Chocolate Coated Wafer Home Treats",
+                                                    "card_kg":"126 g-(21pcs x 6g each)",
+                                                    "card_discount":11,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":89.1 
+                                                },
+                                                {
+                                                    "id":4,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/100265004_16-cadbury-dairy-milk-silk-fruit-nut-chocolate-bar.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cadbury",
+                                                    "card_name":"Fruit & Nut Chocolate Bar",
+                                                    "card_kg":"137",
+                                                    "card_discount":15,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":185 
+                                                },
+                                                {
+                                                    "id":5,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/1207407_9-cadbury-dairy-milk-silk-valentine-home-treats-hearts-roses.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cadbury",
+                                                    "card_name":"Minis Chocolate Home Treats Pack",
+                                                    "card_kg":"2 x 153g-Multipack",
+                                                    "card_discount":26,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":372.02
+                                                },
+                                                {
+                                                    "id":6,
+                                                    "card_img":"https://www.bigbasket.com/media/uploads/p/m/100306865_8-cadbury-gems-sugar-coated-chocolate.jpg?tr=w-1920,q=80",
+                                                    "card_fresho":"Cadbury",
+                                                    "card_name":"Chocolate",
+                                                    "card_kg":"25.28 g",
+                                                    "card_discount":30,
+                                                    "iscart":false,
+                                                    "issave":false,
+                                                    "isselect":false,
+                                                    "count":1,
+                                                    "card_price":20
+                                                }
+                                    ]
+                                }
+                    ]
+            }
+    
+    ]
+    
+}
